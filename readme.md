@@ -1,2 +1,2 @@
-# Calculadora IMC
-# IMC_JS
+# Calculadora IMC - JS
+
